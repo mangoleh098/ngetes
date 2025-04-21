@@ -1,3 +1,4 @@
 gecko= $H4rK
 alfa= ./3111PirEeDn
 wso= /.$harKs?s
+wsonew2= ./$HhaRks
